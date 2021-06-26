@@ -16,6 +16,8 @@
     iconCart.on('click', function() {
         $('.mini-cart-content').toggleClass('cart-visible');
     });
+
+
     /*---------------------
         Toggle Search Bar
     --------------------- */
